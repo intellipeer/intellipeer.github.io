@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+
+.env
+
+yarn.lock
+
+package-lock.json
+
+# misc
+.DS_Store
